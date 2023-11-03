@@ -1,0 +1,19 @@
+{
+  "name": "openai-function-calls",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "20.8.10",
+    "tsx": "3.14.0",
+    "typescript": "5.2.2"
+  },
+  "description": "To install dependencies:",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ff6347 <hash@ff6347.email>",
+  "license": "MIT"
+}
